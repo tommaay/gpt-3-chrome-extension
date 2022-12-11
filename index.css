@@ -1,0 +1,41 @@
+body {
+  min-width: 250px;
+  background: rgb(49, 49, 49);
+  color: white;
+  padding: 10px;
+}
+
+#key_entered {
+  display: none;
+}
+
+button {
+  background-color: rgb(255, 189, 67);
+  color: white;
+  padding: 5px 10px;
+  border-radius: 4px;
+}
+
+input {
+  padding: 5px 10px;
+  border-radius: 4px;
+}
+
+h1 {
+  font-size: 1rem;
+  text-align: center;
+  line-height: 1;
+  margin-bottom: 12px;
+}
+
+#change_key_button {
+  display: block;
+  margin: 0 auto;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+}
