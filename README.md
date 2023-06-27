@@ -1,6 +1,2 @@
-# buildspace 
-### Welcome 👋
-This is the starter template for the [build your own AI writing assistant w/ GPT-3](https://buildspace.so/builds/ai-writer) project. 
-
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://buildspace.so/p/build-ai-writing-assistant-gpt3) and link your Discord account so you can get access to helpful channels and your instructor!
+## Overview
+This is a GPT3 chrome extension that allows user to use AI to help them write witty tweets and responses.
